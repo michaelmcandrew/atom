@@ -1,6 +1,11 @@
 "*":
   core:
+    autoHideMenuBar: true
     telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
   "exception-reporting":
     userId: "f0b95e99-21fc-486f-8948-5405fc1e8bc1"
   welcome:
